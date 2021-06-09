@@ -2,7 +2,9 @@ import pandas as pd
 from random import *
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("test.csv",sep=";")
+print("Welcome to my quizz, you are my guess. \n Are you ready to find out if you are a real Erasmus in Warsaw ? \n The use of external help is absolutely forbidden (internet, friends..) \n You are ready now, then let's start the game ! ")
+
+df = pd.read_csv("Data.csv", sep=";")
 count_row = df.shape[0]
 
 # renvoie la question de la ligne a
@@ -13,8 +15,11 @@ def AskQuestion(a,df):
     print(f"c) {df['C'].iloc[a]}")
 
 
-# pose 20 questions
-for i in range(3):
+number_of_correct_answer = 0
+loop = 20
+
+# ask 20 questions
+for i in range(loop):
     a = randint(0,count_row-1)
     AskQuestion(a,df)
     answer = input()
@@ -26,8 +31,11 @@ for i in range(3):
 
     if answer.lower()==df['Correct answer'].iloc[a]:
         print("Well done")
+        number_of_correct_answer += 1
     else:
         print(f" Wrong answer, the correct answer is {df['Correct answer'].iloc[a]}")
+
+print(f"The quizz is now finished. Thank you for your try. You score is {number_of_correct_answer} out {loop}")
 
 
 
