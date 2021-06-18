@@ -1,7 +1,7 @@
 import pandas as pd
 from random import *
 import time
-
+#print("test")
 
 #print("Welcome to my quizz, you are my guess. \n Are you ready to find out if you are a real Erasmus in Warsaw ? \n The use of external help is absolutely forbidden (internet, friends..) \n You are ready now, then let's start the game with linguistic question!")
 #print("Disclaimer : my game doesn't take into account any accent. This is very sad.")
