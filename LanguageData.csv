@@ -1,147 +1,115 @@
-﻿id;Sub category;Questions;Correct answer;A;B;C;Correct Answer;Save correct Answer;;;Total :;138;;Save correct Answer
-1;Politeness;good;#N/A;;;;A;dobry;;;Basis;33;;dobry
-2;Everyday;new;B;nauka;nowy;nove;A;nowy;;;Everyday;12;;nowy
-3;Everyday;old;B;świat;stary;nowy;A;stary;;;Food;33;;stary
-4;Food;bread;#N/A;;;;A;chleb;;;Places;33;;chleb
-5;Food;butter;#N/A;;;;A;masło;;;Politeness;27;;masło
-6;Food;cheese;#N/A;;;;A;ser;;;;;;ser
-7;Food;chicken;#N/A;;;;A;kurczak;;;;;;kurczak
-8;Food;dessert;#N/A;;;;A;deser;;;;;;deser
-9;Food;dinner;#N/A;;;;A;obiad;;;;;;obiad
-10;Food;cabbage;#N/A;;;;A;kapusta;;;;;;kapusta
-11;Food;mushrooms;#N/A;;;;A;grzyby;;;;;;grzyby
-12;Food;ice cream;#N/A;;;;A;lody;;;;;;lody
-13;Food;lemon;#N/A;;;;A;cytryna;;;;;;cytryna
-14;Food;meat;#N/A;;;;A;mięso;;;;;;mięso
-15;Food;oven;#N/A;;;;A;piekarnik;;;;;;piekarnik
-16;Food;sausage;#N/A;;;;A;kiełbasa;;;;;;kiełbasa
-17;Food;soup;#N/A;;;;A;zupa;;;;;;zupa
-18;Food;sugar;#N/A;;;;A;cukier;;;;;;cukier
-19;Food;apple;#N/A;;;;A;jabłko;;;;;;jabłko
-20;Food;rasberry;#N/A;;;;A;malina;;;;;;malina
-21;Food;garlic;#N/A;;;;A;czosnek;;;;;;czosnek
-22;Food;onion;#N/A;;;;A;cebula;;;;;;cebula
-23;Food;peppers;#N/A;;;;A;papryka;;;;;;papryka
-24;Food;tomatoes;#N/A;;;;A;pomidory;;;;;;pomidory
-25;Places;bathroom;#N/A;;;;A;łazienka;;;;;;łazienka
-26;Places;pharmacy;B;pharmacy;apteka;stomatologie;A;apteka;;;;;;apteka
-27;Places;restaurant;C;restauraczja;restaurant;restauracja;A;restauracja;;;;;;restauracja
-28;Places;toilet;C;toilet;toalety;toaleta;A;toaleta;;;;;;toaleta
-29;Places;bank;B;banku;bank;banky;A;bank;;;;;;bank
-30;Places;beach;C;plasa;plaja;plaża;A;plaża;;;;;;plaża
-31;Food;cafe;#N/A;;;;A;kawiarnia;;;;;;kawiarnia
-32;Food;flowers;#N/A;;;;A;kwiaty;;;;;;kwiaty
-33;Places;geography;#N/A;;;;A;geografia;;;;;;geografia
-34;Places;history;#N/A;;;;A;historia;;;;;;historia
-35;Places;house;C;;basen;dom;A;dom;;;;;;dom
-36;Places;lake;#N/A;;;;A;jezioro;;;;;;jezioro
-37;Places;library;B;livrary;biblioteka;library;A;biblioteka;;;;;;biblioteka
-38;Everyday;science;A;nauka;nowy;;A;nauka;;;;;;nauka
-39;Places;sea;C;;;morze;A;morze;;;;;;morze
-40;Places;swimming pool;#N/A;;;;A;basen;;;;;;basen
-41;Places;theater;#N/A;;;;A;teatr;;;;;;teatr
-42;Basis;one;B;cztery;jeden;osiem;A;jeden;;;;;;jeden
-43;Basis;two;A;dwa;osiem;cztery;A;dwa;;;;;;dwa
-44;Basis;three;C;sześć;cztery;trzy;A;trzy;;;;;;trzy
-45;Basis;four;C;osiem;sześć;cztery;A;cztery;;;;;;cztery
-46;Basis;five;B;trzy;pięć;dwa;A;pięć;;;;;;pięć
-47;Basis;six;C;pięć;osiem;sześć;A;sześć;;;;;;sześć
-48;Basis;seven;B;pięć;siedem;osiem;A;siedem;;;;;;siedem
-49;Basis;eight;B;siedem;osiem;sześć;A;osiem;;;;;;osiem
-50;Basis;nine;C;osiem;dziesięć;dziewięć;A;dziewięć;;;;;;dziewięć
-51;Basis;ten;C;jeden;dziewięć;dziesięć;A;dziesięć;;;;;;dziesięć
-52;Basis;hundred;C;osiem;tysiąc;sto;A;sto;;;;;;sto
-53;Basis;one thousand;A;tysiąc;pięć;sto;A;tysiąc;;;;;;tysiąc
-54;Basis;million;B;sto;milion;tysiąc;A;milion;;;;;;milion
-55;Places;bathroom;#N/A;;;;A;łazienka;;;;;;łazienka
-56;Places;house ;#N/A;;;;A;dom;;;;;;dom
-57;Places;restaurant;#N/A;;;;A;restauracja;;;;;;restauracja
-58;Places;river;#N/A;;;;A;rzeka;;;;;;rzeka
-59;Places;garden;#N/A;;;;A;ogród;;;;;;ogród
-60;Places;lake;#N/A;;;;A;jezioro;;;;;;jezioro
-61;Food;cream;#N/A;;;;A;śmietana;;;;;;śmietana
-62;Politeness;Yes;#N/A;;;;A;Tak;;;;;;Tak
-63;Politeness;Yes, please;#N/A;;;;A;Tak, poproszę;;;;;;Tak, poproszę
-64;Politeness;No;#N/A;;;;A;Nie;;;;;;Nie
-65;Politeness;No, thanks;#N/A;;;;A;Nie, dziękuję;;;;;;Nie, dziękuję
-66;Politeness;Fine;#N/A;;;;A;Dobrze;;;;;;Dobrze
-67;Politeness;Okay;#N/A;;;;A;Okej;;;;;;Okej
-68;Politeness;Maybe;#N/A;;;;A;Może;;;;;;Może
-69;Politeness;I don’t know.;#N/A;;;;A;Nie wiem.;;;;;;Nie wiem.
-70;Politeness;Of course.;#N/A;;;;A;Oczywiście.;;;;;;Oczywiście.
-71;Politeness;Great!;#N/A;;;;A;Świetnie!;;;;;;Świetnie!
-72;Everyday;right;B;lewo;prawo;dobzre;A;prawo;;;;;;prawo
-73;Everyday;left;A;lewo;dobzre;prawo;A;lewo;;;;;;lewo
-74;Basis;English;A;angielsku;engliswku;ingulesku;A;angielsku;;;;;;angielsku
-75;Basis;Polish;C;polska;pole;polsku;A;polsku;;;;;;polsku
-76;Basis;Spanish;C;espańsku;ispańsku;hiszpańsku;A;hiszpańsku;;;;;;hiszpańsku
-77;Basis;German;B;deutschku;niemiecku;germansku;A;niemiecku;;;;;;niemiecku
-78;Basis;French;C;frankuska;franzuske;francusku;A;francusku;;;;;;francusku
-79;Politeness;enjoy your meal;#N/A;;;;A;Smacznego;;;;;;Smacznego
-80;Food;water;#N/A;;;;A;wody;;;;;;wody
-81;Everyday;ticket;C;ticket;bilety;bilet;A;bilet;;;;;;bilet
-82;Politeness;sorry;#N/A;;;;A;Przepraszam;;;;;;Przepraszam
-83;Politeness;thank you;#N/A;;;;A;Dziękuję ;;;;;;Dziękuję 
-84;Politeness;please;#N/A;;;;A;proszę;;;;;;proszę
-85;Politeness;you're welcome;#N/A;;;;A;proszę;;;;;;proszę
-86;Politeness;thanks;#N/A;;;;A;dzięki;;;;;;dzięki
-87;Politeness;goodbye;#N/A;;;;A;do widzenia;;;;;;do widzenia
-88;Politeness;good night;#N/A;;;;A;dobranoc;;;;;;dobranoc
-89;Politeness;hi;#N/A;;;;A;cześć;;;;;;cześć
-90;Politeness;good evening;#N/A;;;;A;dobry wieczór;;;;;;dobry wieczór
-91;Politeness;good morning;#N/A;;;;A;dzień dobry;;;;;;dzień dobry
-92;Everyday;next station;C;X;X;następna stacja;A;następna stacja;;;;;;następna stacja
-93;Places;bakery;#N/A;;;;A;piekarnia;;;;;;piekarnia
-94;Politeness;very;#N/A;;;;A;bardzo;;;;;;bardzo
-95;Everyday;caution;B;uwagan;uwaga;caution;A;uwaga;;;;;;uwaga
-96;Places;central station;#N/A;;;;A;dworzec centralny;;;;;;dworzec centralny
-97;Food;apple juice;#N/A;;;;A;sok jabłkowy;;;;;;sok jabłkowy
-98;Everyday;new world;A;nowy świat;nowzy świate;nove światy;A;nowy świat;;;;;;nowy świat
-99;Places;castle;B;;zamek;rynek;A;zamek;;;;;;zamek
-100;Everyday;COVID-19 test;A;badania na COVID-19;prawa na COVID-19;testy na COVID-19;A;badania na COVID-19;;;;;;badania na COVID-19
-101;Everyday;national;C;nowzy;national;narodowe;A;narodowe;;;;;;narodowe
-102;Places;hospital;C;;;szpital;A;szpital;;;;;;szpital
-103;Politeness;welcome;#N/A;;;;A;witamy;;;;;;witamy
-104;Everyday;lift;A;winda;ascensore;lift;A;winda;;;;;;winda
-105;Food;mint;#N/A;;;;A;mieta;;;;;;mieta
-106;Food;lemon;#N/A;;;;A;cytryna;;;;;;cytryna
-107;Basis;tree;A;arbuza;arbra;arwbru;A;arbuza;;;;;;arbuza
-108;Basis;day;B;teg;dni;jowa;A;dni;;;;;;dni
-109;Basis;hour;C;luty;dni;godzina;A;godzina;;;;;;godzina
-110;Places;store;#N/A;;;;A;sklep;;;;;;sklep
-111;Politeness;I am ;#N/A;;;;A;jestem;;;;;;jestem
-112;Politeness;I don't speak polish;#N/A;;;;A;Nie mówię po polsku.;;;;;;Nie mówię po polsku.
-113;Politeness;I speak English;#N/A;;;;A;Mówię po angielsku;;;;;;Mówię po angielsku
-114;Food;beer;#N/A;;;;A;piwo;;;;;;piwo
-115;Food;wine;#N/A;;;;A;wino;;;;;;wino
-116;Food;dumpling;#N/A;;;;A;pierogi;;;;;;pierogi
-117;Food;vodka;#N/A;;;;A;vodka;;;;;;vodka
-118;Food;honey;#N/A;;;;A;miód;;;;;;miód
-119;Places;street;#N/A;;;;A;ulica;;;;;;ulica
-120;Places;avenue;C;zamek;ulica;aleja;A;aleja;;;;;;aleja
-121;Places;monument;B;monument;pomnik;szpital;A;pomnik;;;;;;pomnik
-122;Places;palace;B;palaz;pałac;palace;A;pałac;;;;;;pałac
-123;Places;traffic circle;C;rondu;rounde;rondo;A;rondo;;;;;;rondo
-124;Places;main station;A;dworzec główny;;;A;dworzec główny;;;;;;dworzec główny
-125;Places;station;C;główny;dworzec;stacja;A;stacja;;;;;;stacja
-126;Basis;February;A;Luty;Kwiecień;Czerwiec;A;Luty;;;;;;Luty
-127;Basis;March;C;March;Maj;Marzec;A;Marzec;;;;;;Marzec
-128;Basis;April;B;Maj;Kwiecień;Czerwiec;A;Kwiecień;;;;;;Kwiecień
-129;Basis;May;C;Czerwiec;Marzec;Maj;A;Maj;;;;;;Maj
-130;Basis;June;B;Kwiecień;Czerwiec;Luty;A;Czerwiec;;;;;;Czerwiec
-131;Basis;Monday;C;środa;niedziela;poniedziałek;A;poniedziałek;;;;;;poniedziałek
-132;Basis;Tuesday;A;wtorek;poniedziałek;środa;A;wtorek;;;;;;wtorek
-133;Basis;Wednesday;B;czwartek;środa;czwartek;A;środa;;;;;;środa
-134;Basis;Thursday;A;czwartek;środa;piątek;A;czwartek;;;;;;czwartek
-135;Basis;Friday;A;piątek;czwartek;sobota;A;piątek;;;;;;piątek
-136;Basis;Staturday;A;sobota;niedziela;środa;A;sobota;;;;;;sobota
-137;Basis;Sunday;C;środa;sobota;niedziela;A;niedziela;;;;;;niedziela
-138;Everyday;east;;;;;A;?;;;;;;
-139;Everyday;west;;;;;A;?;;;;;;
-140;Everyday;north;;;;;A;?;;;;;;
-141;Everyday;south;;;;;A;?;;;;;;
-142;Food;coffee;;;;;A;;;;;;;
-143;Food;tea;;;;;A;;;;;;;
-144;Food;banana;;;;;A;;;;;;;
-145;;exit;;;;;A;;;;;;;
-146;;direction;;;;;A;;;;;;;
+﻿id;Sub category;Questions;Correct answer;A;B;C;Save correct Answer;;Étiquettes de lignes;Nombre de id
+1;Politeness;fine;b;dobre;dobrze;nowy;dobrze;;Basis;32
+2;Everyday;new;b;nauka;nowy;nove;nowy;;Everyday;16
+3;Everyday;old;b;świat;stary;nowy;stary;;Food;23
+4;Food;butter;a;masło;kapusta;grzyby;masło;;Places;23
+5;Food;cabbage;a;kapusta;grzyby;masło;kapusta;;Politeness;20
+6;Food;mushrooms;a;grzyby;masło;kapusta;grzyby;;Total général;114
+7;Food;ice cream;b;zimna;lody;lizać;lody;;;
+8;Food;lemon;a;cytryna;limonka;pomarańczowy;cytryna;;;
+9;Food;soup;b;soupa;zupa;supa;zupa;;;
+10;Food;sugar;c;słodki;sól;cukier;cukier;;;
+11;Food;apple;c;gruszka;sok;jabłko;jabłko;;;
+12;Food;rasberry;c;masło;moliowa;malina;malina;;;
+13;Food;onion;b;onion;cebula;czosnek;cebula;;;
+14;Food;peppers;b;pépryka;papryka;pomidory;papryka;;;
+15;Food;tomatoes;c;czosnek;tómat;pomidory;pomidory;;;
+16;Places;bathroom;c;sto;bat;łazienka;łazienka;;;
+17;Places;pharmacy;b;pharmacy;apteka;stomatologie;apteka;;;
+18;Places;restaurant;c;restauraczja;restaurant;restauracja;restauracja;;;
+19;Places;toilet;c;toilet;toalety;toaleta;toaleta;;;
+20;Places;bank;b;banku;bank;banky;bank;;;
+21;Places;beach;c;plasa;plaja;plaża;plaża;;;
+22;Food;café;c;kawiarnié;kawiarnika;kawiarnia;kawiarnia;;;
+23;Food;flowers;c;kwiat;kwiaté;kwiaty;kwiaty;;;
+24;Places;house;c;huz;basen;dom;dom;;;
+25;Places;library;b;livrary;biblioteka;library;biblioteka;;;
+26;Everyday;science;a;nauka;nowy;vtorek;nauka;;;
+27;Places;sea;c;ogród;rzeka;morze;morze;;;
+28;Basics;one;b;cztery;jeden;osiem;jeden;;;
+29;Basics;two;a;dwa;osiem;cztery;dwa;;;
+30;Basics;three;c;sześć;cztery;trzy;trzy;;;
+31;Basics;four;c;osiem;sześć;cztery;cztery;;;
+32;Basics;five;b;trzy;pięć;dwa;pięć;;;
+33;Basics;six;c;pięć;osiem;sześć;sześć;;;
+34;Basics;seven;b;pięć;siedem;osiem;siedem;;;
+35;Basics;eight;b;siedem;osiem;sześć;osiem;;;
+36;Basics;nine;c;osiem;dziesięć;dziewięć;dziewięć;;;
+37;Basics;ten;c;jeden;dziewięć;dziesięć;dziesięć;;;
+38;Basics;hundred;c;osiem;tysiąc;sto;sto;;;
+39;Basics;million;b;sto;milion;tysiąc;milion;;;
+40;Places;river;a;rzeka;ogród;morze;rzeka;;;
+41;Food;cream;c;sorbety;lody;śmietana;śmietana;;;
+42;Politeness;no;b;no;nie;niem;nie;;;
+43;Politeness;Okay;a;okej;okay;oké;okej;;;
+44;Politeness;I don’t know.;c;nie jem;nie piję;nie wiem;nie wiem;;;
+45;Everyday;right;b;lewo;prawo;dobzre;prawo;;;
+46;Everyday;left;a;lewo;dobzre;prawo;lewo;;;
+47;Basics;English;a;angielsku;engliswku;ingulesku;angielsku;;;
+48;Basics;Polish;c;polska;pole;polsku;polsku;;;
+49;Basics;Spanish;c;espańsku;ispańsku;hiszpańsku;hiszpańsku;;;
+50;Basics;German;b;deutschku;niemiecku;germansku;niemiecku;;;
+51;Basics;French;c;frankuska;franzuske;francusku;francusku;;;
+52;Politeness;enjoy your meal;b;przepraszam;smacznego;proszę;smacznego;;;
+53;Food;water;c;wina;winda;wody;wody;;;
+54;Everyday;ticket;c;ticket;bilety;bilet;bilet;;;
+55;Politeness;sorry;c;proszę;dzięki;przepraszam;przepraszam;;;
+56;Politeness;thank you;b;proszę;dziękuję ;dzięki;dziękuję ;;;
+57;Politeness;please;c;przepraszam;dzięki;proszę;proszę;;;
+58;Politeness;you're welcome;c;przepraszam;dzięki;proszę;proszę;;;
+59;Politeness;thanks;c;proszę;dziękuję ;dzięki;dzięki;;;
+60;Politeness;goodbye;a;do widzenia;dobranoc;dobry wieczór;do widzenia;;;
+61;Politeness;good night;b;do widzenia;dobranoc;dobry wieczór;dobranoc;;;
+62;Politeness;hi;b;dzień dobry;cześć;dobry wieczór;cześć;;;
+63;Politeness;good evening;c;do widzenia;dobranoc;dobry wieczór;dobry wieczór;;;
+64;Politeness;good morning;a;dzień dobry;dobry wieczór;do widzenia;dzień dobry;;;
+65;Everyday;next station;c;stacja druga;ostatnia stacja;następna stacja;następna stacja;;;
+66;Places;bakery;c;bakeria;cukierna;piekarnia;piekarnia;;;
+67;Politeness;very;c;sto;dni;bardzo;bardzo;;;
+68;Everyday;caution;b;uwagan;uwaga;caution;uwaga;;;
+69;Everyday;new world;a;nowy świat;nowzy świate;nove światy;nowy świat;;;
+70;Places;castle;b;kierunek;zamek;rynek;zamek;;;
+71;Everyday;COVID-19 test;a;badania na COVID-19;prawa na COVID-19;testy na COVID-19;badania na COVID-19;;;
+72;Everyday;national;c;nowzy;national;narodowe;narodowe;;;
+73;Places;hospital;c;kierunek;witamy;szpital;szpital;;;
+74;Politeness;welcome;a;witamy;Cześć;dobrze;witamy;;;
+75;Everyday;lift;a;winda;ascensore;lift;winda;;;
+76;Food;mint;c;arkusz;herbata;mieta;mieta;;;
+77;Basics;tree;a;arbuza;arbra;arwbru;arbuza;;;
+78;Basics;day;b;teg;dni;jowa;dni;;;
+79;Basics;hour;c;luty;dni;godzina;godzina;;;
+80;Places;store;c;winda;piekarnia;sklep;sklep;;;
+81;Politeness;I am ;a;jestem;to jest;jesteś;jestem;;;
+82;Politeness;I don't speak polish;a;Nie mówię po polsku;Nié mouiwę po pwolsku;Nié moiwę po polsku;Nie mówię po polsku;;;
+83;Politeness;I speak English;a;Mówię po angielsku;Słucham języka angielskiego;Rozumiem język angielski;Mówię po angielsku;;;
+84;Food;beer;c;pinda;ptorek;piwo;piwo;;;
+85;Food;wine;c;winda;wtorek;wino;wino;;;
+86;Food;dumpling;c;pierogia;pierogie;pierogi;pierogi;;;
+87;Food;vodka;b;wodka;vodka;vódka;vodka;;;
+88;Places;street;a;ulica;aleja;zamek;ulica;;;
+89;Places;avenue;c;zamek;ulica;aleja;aleja;;;
+90;Places;monument;b;monument;pomnik;szpital;pomnik;;;
+91;Places;palace;b;palaz;pałac;palace;pałac;;;
+92;Places;traffic circle;c;rondu;rounde;rondo;rondo;;;
+93;Places;main station;a;dworzec główny;następna stacja;;dworzec główny;;;
+94;Places;station;c;główny;dworzec;stacja;stacja;;;
+95;Basics;February;a;Luty;Kwiecień;Czerwiec;Luty;;;
+96;Basics;March;c;March;Maj;Marzec;Marzec;;;
+97;Basics;April;b;Maj;Kwiecień;Czerwiec;Kwiecień;;;
+98;Basics;May;c;Czerwiec;Marzec;Maj;Maj;;;
+99;Basics;June;b;Kwiecień;Czerwiec;Luty;Czerwiec;;;
+100;Basics;Monday;c;środa;niedziela;poniedziałek;poniedziałek;;;
+101;Basics;Tuesday;a;wtorek;poniedziałek;środa;wtorek;;;
+102;Basics;Wednesday;b;czwartek;środa;czwartek;środa;;;
+103;Basics;Thursday;a;czwartek;środa;piątek;czwartek;;;
+104;Basics;Friday;a;piątek;czwartek;sobota;piątek;;;
+105;Basics;Staturday;a;sobota;niedziela;środa;sobota;;;
+106;Basics;Sunday;c;środa;sobota;niedziela;niedziela;;;
+107;Everyday;east;c;zachód;północ;wschód;wschód;;;
+108;Everyday;west;c;wschód;południe;zachód;zachód;;;
+109;Everyday;north;a;północ;zachód;południe;północ;;;
+110;Everyday;south;c;zachód;północ;południe;południe;;;
+111;Food;coffee;b;coffee;kawa;cafe;kawa;;;
+112;Food;tea;a;herbata;arkusz;grabie;herbata;;;
+113;Places;exit;b;aleja;wyjście;kierunek;wyjście;;;
+114;Places;direction;c;wyjście;ulica;kierunek;kierunek;;;

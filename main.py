@@ -13,7 +13,7 @@ df2 = pd.read_csv("OtherData.csv", sep=";",encoding='utf-8')
 count_row_languagedata = df.shape[0]
 count_row_otherdata = df2.shape[0]
 
-Sub_category=["Food","Food","Everyday","Everyday","Politeness","Politeness","Places","Places","Basis","Basis"]
+Sub_category=["Food","Food","Everyday","Politeness","Politeness","Places","Places","Basics","Basics"]
 
 def AskQuestion_SubCategory(i,a):
     df_i= df[df['Sub category'] == i]
@@ -99,9 +99,4 @@ elif number_of_correct_answer/number_of_question_asked >= 0.4 :
     print("Are you really an Erasmus student ? Well let's say that you missed some of the Polish culture. ")
 else:
     print("Well, I don't think that you are an Erasmus student, maybe you are only a tourist in Warsaw ?")
-
-
-
-
-
 
